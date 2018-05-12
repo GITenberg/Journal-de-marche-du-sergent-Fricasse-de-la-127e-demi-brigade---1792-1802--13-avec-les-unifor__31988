@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '35600'
     url: http://www.gutenberg.org/2009/agents/35600
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31988#Journal-de-marche-du-sergent-Fricasse-de-la-127e-demi-brigade---1792-1802--13-avec-les-unifor_
 gutenberg_bookshelf: FR Guerres
 gutenberg_issued: '2010-04-14'
 gutenberg_type: Text
